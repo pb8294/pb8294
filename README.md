@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Ph.D. Research ara: `Deep Learning`, `Active Learning`, `Meta-Learning`, `Computer Vision`, `Data-efficient Surrogate Models` with biomedical and scientific applications
+- 🔭 Ph.D. Research area: `Deep Learning`, `Active Learning`, `Meta-Learning`, `Computer Vision`, `Data-efficient Surrogate Models` with biomedical and scientific applications
 
 - 🌱 Expanding interests in `Agentic AI`, `Large Language Models`, `Graph Representation Learning`
 - ℹ️  More details on my personal website: https://bajrapradeep.com.np/
