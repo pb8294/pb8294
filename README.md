@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 Ph.D. Research ara: `Deep Learning`, `Active Learning`, `Meta-Learning`, `Computer Vision`, `Data-efficient Surrogate Models` with biomedical and scientific applications
+
+- 🌱 Expanding interests in `Agentic AI`, `Large Language Models`, `Graph Representation Learning`
+- ℹ️  More details on my personal website: https://bajrapradeep.com.np/
+- 📄 My [CV](https://www.bajrapradeep.com.np/pdf/Pradeep_Bajracharya_2025_PD.pdf)
+
 <!--
 **pb8294/pb8294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
